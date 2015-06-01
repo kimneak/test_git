@@ -1,0 +1,12 @@
+- Advance search by: ..... 
+- Save Search Criteria
+- show images on each items(Zoom option) (Multiple Images)
+- create homepage for visitor
+- create template for add new item (if template not found will add)
+- Generate Barcode(bar1,bar2 ....)
+
+
+soveyautoparts.com
+u: sovey001
+p: aj19211921
+www.copart.com (search)
